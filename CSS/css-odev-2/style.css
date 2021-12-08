@@ -1,0 +1,61 @@
+
+.container {
+    width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+.content {
+    background-color: rgba(212, 209, 209, 0.5);
+}
+
+.content-header {
+    margin-bottom: 0;
+}
+
+.content input {
+    width: 24%;
+}
+
+.btn-content {
+    display: block;
+}
+
+.box {
+    margin-top: 4px;
+}
+
+.box p{
+    line-height: 0;
+    font-size: 14px;
+}
+
+.box-one {
+    background-color: rgb(126, 229, 218);
+    margin-right: 4px;
+    width: 30%;
+}
+
+.box-two {
+    background-color: rgb(112, 204, 194);
+    width: 20%;
+}
+
+.box-three {
+    background-color: rgb(98, 179, 170);
+    margin-left: 4px;
+    margin-right: 0;
+    width: 50%;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    margin-top: 10px;
+    font-size: 14px;
+}

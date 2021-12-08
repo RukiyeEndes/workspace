@@ -1,0 +1,23 @@
+.header {
+    list-style-type: none;
+    overflow: hidden;
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+  }
+
+  .headerli {
+      display:inline-block;
+  }
+  
+  .headerli a {
+    display: block;
+    color: rgba(0,0,0,0.87);
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+  }
+  
+  .headerli a:hover {
+    text-decoration: underline;
+  }

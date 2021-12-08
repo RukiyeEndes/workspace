@@ -1,0 +1,33 @@
+
+/*
+    acıklama satırı
+*/
+
+h3 {
+    color: blueviolet;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul li:first-child{
+    color:brown;
+}
+
+ul li:last-child{
+    color: burlywood;
+}
+ul li:nth-child(3){
+    color: crimson;
+}
+ul li:nth-child(odd){
+    /* sadece tek olanları degıstırır. */
+    color: darkmagenta;
+}
+ul li:nth-child(even){
+    /* sadece cift olanları degıstırır. */
+    color: darkorchid;
+}
+ul li:nth-child(2n+1){
+    /* 3 ve 3 ün katlarını etkiler */
+    font-size: 28px;
+}
