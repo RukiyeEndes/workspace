@@ -1,0 +1,47 @@
+
+body {
+    background-color: #E9ECEF;
+}
+
+.main-header{
+    color: blueviolet;
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.main-subtitle {
+    color: coral;
+}
+
+.musical-instruments > li {
+    font-weight: bold;
+}
+
+.about-us-subtitle {
+    color: hotpink;
+}
+
+.btn-info>a {
+    color: white;
+}
+
+.img-title {
+    color: coral;
+}
+
+.price>a {
+    font-weight: bold;
+    color: white;
+}
+
+.card {
+    width: 300px;
+    height: 280px;
+    margin: 80px 80px;
+    background-color: white;
+}
+
+.card>img {
+    width: 300px;
+    height: 300px;
+}
